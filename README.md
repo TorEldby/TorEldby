@@ -9,6 +9,10 @@ TorEldby/TorEldby is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Hello. My name is Tor Eldby. I am a norwegian developer from the northern city of Narvik. 
+
+About me
+---
+
 I have a M.Sc. of applied computer science. My first job after finishing my studies was at Datarespons R&D services, a consultancy firm, in Kongsberg.
 My first project was related to using the Yocto Project for creating Linux-based operating systems for an in-house embedded system based on the NVIDIA Tegra microprocessor.
 Afterwards, I was contracted to work for Kongsberg Defence and Aerospace - Division Land Systems on their RWS project.
@@ -23,4 +27,6 @@ Other hobbies include working out, making good food, playing videogames with my 
 
 I intend to have many projects set up properly as I begin to explore my interests further.
 
+Contact
+---
 Currently, you can contact me here on Github, and you can find me on [LinkedIn](https://www.linkedin.com/in/tor-eldby-137820155/)
